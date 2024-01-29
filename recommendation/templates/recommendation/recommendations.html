@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<h1>Selected wallpaper</h1>
+<img src="{% static 'images/wallpapers/'|add:wallpaper %}" width="300" class="wallpaper">
+<h1>Recommendations</h1>
+<div class="wallpapers-wrapper">
+    {% for recommendation in recommendations %}
+    <a href="{% static 'images/wallpapers/'|add:recommendation %}" download="{{recommendation}}">
+        <img src="{% static 'images/wallpapers/'|add:recommendation %}" width="300" loading="lazy" class="wallpaper">
+    </a>
+    {% endfor %}
+</div>
+{% endblock %}
