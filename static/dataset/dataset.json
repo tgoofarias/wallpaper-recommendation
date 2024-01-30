@@ -1,5 +1,5 @@
 {
-    "7370": {
+    "7370.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 3,
@@ -12,7 +12,7 @@
         "game": 4,
         "anime": 0
     },
-    "17221": {
+    "17221.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -25,7 +25,7 @@
         "game": 0,
         "anime": 0
     },
-    "19902": {
+    "19902.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -38,7 +38,7 @@
         "game": 4,
         "anime": 0
     },
-    "53920": {
+    "53920.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -51,7 +51,7 @@
         "game": 0,
         "anime": 0
     },
-    "58757": {
+    "58757.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 1,
@@ -64,7 +64,7 @@
         "game": 0,
         "anime": 0
     },
-    "144565": {
+    "144565.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -77,7 +77,7 @@
         "game": 0,
         "anime": 5
     },
-    "235537": {
+    "235537.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -90,7 +90,7 @@
         "game": 0,
         "anime": 0
     },
-    "245466": {
+    "245466.jpg": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -103,7 +103,7 @@
         "game": 0,
         "anime": 0
     },
-    "247984": {
+    "247984.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -116,7 +116,7 @@
         "game": 0,
         "anime": 0
     },
-    "268649": {
+    "268649.jpg": {
         "cute": 4,
         "animal": 5,
         "dark": 0,
@@ -129,7 +129,7 @@
         "game": 0,
         "anime": 0
     },
-    "279696": {
+    "279696.jpg": {
         "cute": 4,
         "animal": 5,
         "dark": 0,
@@ -142,7 +142,7 @@
         "game": 0,
         "anime": 0
     },
-    "323645": {
+    "323645.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -155,7 +155,7 @@
         "game": 0,
         "anime": 0
     },
-    "417432": {
+    "417432.jpg": {
         "cute": 3.5,
         "animal": 5,
         "dark": 0,
@@ -168,7 +168,7 @@
         "game": 0,
         "anime": 0
     },
-    "420979": {
+    "420979.jpg": {
         "cute": 4,
         "animal": 5,
         "dark": 0,
@@ -181,7 +181,7 @@
         "game": 0,
         "anime": 0
     },
-    "431427": {
+    "431427.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -194,7 +194,7 @@
         "game": 0,
         "anime": 0
     },
-    "445391": {
+    "445391.gif": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -207,7 +207,7 @@
         "game": 0,
         "anime": 0
     },
-    "456110": {
+    "456110.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 1.5,
@@ -220,7 +220,7 @@
         "game": 0,
         "anime": 0
     },
-    "457928": {
+    "457298.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -233,7 +233,59 @@
         "game": 0,
         "anime": 0
     },
-    "497540": {
+    "463202.jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 4,
+        "blue": 0,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "475222.png": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 1,
+        "music": 0,
+        "artist": 0,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "475665.jpg": {
+        "cute": 5,
+        "animal": 1,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "475666.jpg": {
+        "cute": 5,
+        "animal": 1,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 5,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "497540.jpg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -246,7 +298,7 @@
         "game": 0,
         "anime": 0
     },
-    "514031": {
+    "514031.png": {
         "cute": 0,
         "animal": 0,
         "dark": 3.5,
@@ -259,7 +311,7 @@
         "game": 0,
         "anime": 0
     },
-    "522594": {
+    "522594.jpg": {
         "cute": 5,
         "animal": 1.5,
         "dark": 0,
@@ -272,7 +324,7 @@
         "game": 0,
         "anime": 0
     },
-    "529832": {
+    "529832.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -285,7 +337,7 @@
         "game": 0,
         "anime": 0
     },
-    "536426": {
+    "536426.png": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -298,7 +350,7 @@
         "game": 5,
         "anime": 0
     },
-    "543977": {
+    "543977.jpg": {
         "cute": 1,
         "animal": 0,
         "dark": 0,
@@ -311,7 +363,7 @@
         "game": 0,
         "anime": 0
     },
-    "567954": {
+    "567954.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -324,7 +376,7 @@
         "game": 5,
         "anime": 0
     },
-    "575756": {
+    "575756.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 2,
@@ -337,7 +389,7 @@
         "game": 0,
         "anime": 0
     },
-    "604593": {
+    "604593.jpg": {
         "cute": 1.5,
         "animal": 0,
         "dark": 0,
@@ -350,7 +402,7 @@
         "game": 0,
         "anime": 0
     },
-    "611981": {
+    "611981.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -363,7 +415,7 @@
         "game": 5,
         "anime": 0
     },
-    "642592": {
+    "642592.jpg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -376,7 +428,7 @@
         "game": 0,
         "anime": 0
     },
-    "709232": {
+    "709232.jpg": {
         "cute": 1.5,
         "animal": 0,
         "dark": 0,
@@ -389,7 +441,7 @@
         "game": 0,
         "anime": 0
     },
-    "999625": {
+    "999625.jpg": {
         "cute": 2.5,
         "animal": 0,
         "dark": 0,
@@ -402,7 +454,7 @@
         "game": 0,
         "anime": 5
     },
-    "1073447": {
+    "1073447.jpg": {
         "cute": 1,
         "animal": 0,
         "dark": 0,
@@ -415,7 +467,7 @@
         "game": 0,
         "anime": 0
     },
-    "1232997": {
+    "1232997.png": {
         "cute": 5,
         "animal": 1.5,
         "dark": 0,
@@ -428,7 +480,7 @@
         "game": 0,
         "anime": 0
     },
-    "1233000": {
+    "1233000.png": {
         "cute": 5,
         "animal": 1.5,
         "dark": 0,
@@ -441,7 +493,7 @@
         "game": 0,
         "anime": 0
     },
-    "1262148": {
+    "1262148.png": {
         "cute": 4,
         "animal": 0,
         "dark": 0,
@@ -454,7 +506,7 @@
         "game": 0,
         "anime": 3.5
     },
-    "1305992": {
+    "1305992.png": {
         "cute": 0,
         "animal": 0,
         "dark": 1.5,
@@ -467,7 +519,7 @@
         "game": 0,
         "anime": 0
     },
-    "1307306": {
+    "1307306.png": {
         "cute": 1,
         "animal": 0,
         "dark": 1,
@@ -480,7 +532,7 @@
         "game": 0,
         "anime": 0
     },
-    "1312197": {
+    "1312197.jpg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -493,7 +545,7 @@
         "game": 0,
         "anime": 3
     },
-    "1313915": {
+    "1313915.jpg": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -506,7 +558,7 @@
         "game": 0,
         "anime": 4
     },
-    "1313942": {
+    "1313942.png": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -519,7 +571,7 @@
         "game": 0,
         "anime": 3.5
     },
-    "1315566": {
+    "1315566.jpg": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -532,7 +584,7 @@
         "game": 0,
         "anime": 3
     },
-    "1316087": {
+    "1316087.jpg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -545,7 +597,7 @@
         "game": 0,
         "anime": 3
     },
-    "1316729": {
+    "1316729.png": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -558,7 +610,7 @@
         "game": 0,
         "anime": 0
     },
-    "1317592": {
+    "1317592.jpeg": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -571,7 +623,7 @@
         "game": 0,
         "anime": 3
     },
-    "1319775": {
+    "1319775.jpeg": {
         "cute": 0,
         "animal": 0,
         "dark": 2,
@@ -584,7 +636,7 @@
         "game": 0,
         "anime": 0
     },
-    "1322308": {
+    "1322308.jpeg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -597,7 +649,7 @@
         "game": 0,
         "anime": 3
     },
-    "1322475": {
+    "1322475.jpeg": {
         "cute": 0,
         "animal": 1.5,
         "dark": 4,
@@ -610,7 +662,7 @@
         "game": 5,
         "anime": 0
     },
-    "1323666": {
+    "1323666.png": {
         "cute": 5,
         "animal": 5,
         "dark": 0,
@@ -623,7 +675,7 @@
         "game": 0,
         "anime": 2
     },
-    "1324569": {
+    "1324569.jpeg": {
         "cute": 1,
         "animal": 0,
         "dark": 3,
@@ -636,7 +688,7 @@
         "game": 0,
         "anime": 0
     },
-    "1325237": {
+    "1325237.jpeg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -649,7 +701,7 @@
         "game": 5,
         "anime": 0
     },
-    "1325640": {
+    "1325640.jpeg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -662,7 +714,7 @@
         "game": 5,
         "anime": 0
     },
-    "1325726": {
+    "1325726.png": {
         "cute": 0,
         "animal": 0,
         "dark": 5,
@@ -675,7 +727,7 @@
         "game": 0,
         "anime": 0
     },
-    "1326496": {
+    "1326496.png": {
         "cute": 1,
         "animal": 0,
         "dark": 0,
@@ -688,7 +740,7 @@
         "game": 0,
         "anime": 0
     },
-    "1327236": {
+    "1327236.jpeg": {
         "cute": 2,
         "animal": 0,
         "dark": 0,
@@ -701,7 +753,7 @@
         "game": 5,
         "anime": 0
     },
-    "1328381": {
+    "1328381.png": {
         "cute": 3.5,
         "animal": 1,
         "dark": 0,
@@ -714,7 +766,7 @@
         "game": 5,
         "anime": 0
     },
-    "1328396": {
+    "1328396.png": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -727,7 +779,7 @@
         "game": 0,
         "anime": 5
     },
-    "1328421": {
+    "1328421.png": {
         "cute": 0,
         "animal": 0,
         "dark": 1.5,
@@ -740,7 +792,7 @@
         "game": 2,
         "anime": 0
     },
-    "1328618": {
+    "1328618.png": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -753,7 +805,7 @@
         "game": 0,
         "anime": 4
     },
-    "1329441": {
+    "1329441.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -766,7 +818,7 @@
         "game": 0,
         "anime": 0
     },
-    "1329876": {
+    "1329876.png": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -779,7 +831,7 @@
         "game": 2,
         "anime": 0
     },
-    "1330206": {
+    "1330206.jpeg": {
         "cute": 0,
         "animal": 2,
         "dark": 4,
@@ -792,7 +844,7 @@
         "game": 5,
         "anime": 0
     },
-    "1330207": {
+    "1330207.jpeg": {
         "cute": 0,
         "animal": 2,
         "dark": 4,
@@ -805,7 +857,7 @@
         "game": 5,
         "anime": 0
     },
-    "1332614": {
+    "1332614.jpeg": {
         "cute": 0,
         "animal": 0,
         "dark": 3,
@@ -818,7 +870,7 @@
         "game": 5,
         "anime": 0
     },
-    "1333189": {
+    "1333189.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -831,7 +883,7 @@
         "game": 0,
         "anime": 0
     },
-    "1333190": {
+    "1333190.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -844,7 +896,7 @@
         "game": 0,
         "anime": 0
     },
-    "1334058": {
+    "1334058.jpeg": {
         "cute": 0,
         "animal": 0,
         "dark": 2,
@@ -857,7 +909,7 @@
         "game": 0,
         "anime": 0
     },
-    "1334866": {
+    "1334866.png": {
         "cute": 4,
         "animal": 1,
         "dark": 1,
@@ -870,7 +922,7 @@
         "game": 0,
         "anime": 0
     },
-    "1335170": {
+    "1335170.png": {
         "cute": 3,
         "animal": 0,
         "dark": 0,
@@ -883,7 +935,7 @@
         "game": 0,
         "anime": 3
     },
-    "1335455": {
+    "1335455.png": {
         "cute": 3,
         "animal": 5,
         "dark": 0,
@@ -896,7 +948,7 @@
         "game": 0,
         "anime": 0
     },
-    "1337211": {
+    "1337211.png": {
         "cute": 0,
         "animal": 0,
         "dark": 2,
@@ -909,7 +961,7 @@
         "game": 0,
         "anime": 5
     },
-    "1337465": {
+    "1337465.png": {
         "cute": 0,
         "animal": 0,
         "dark": 1,
@@ -922,7 +974,7 @@
         "game": 0,
         "anime": 5
     },
-    "1338171": {
+    "1338171.png": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -935,7 +987,7 @@
         "game": 0,
         "anime": 4
     },
-    "1339211": {
+    "1339211.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -948,7 +1000,7 @@
         "game": 0,
         "anime": 0
     },
-    "1339212": {
+    "1339212.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -961,7 +1013,7 @@
         "game": 0,
         "anime": 0
     },
-    "1339213": {
+    "1339213.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -974,7 +1026,7 @@
         "game": 0,
         "anime": 0
     },
-    "1339214": {
+    "1339214.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -987,7 +1039,7 @@
         "game": 0,
         "anime": 0
     },
-    "1339216": {
+    "1339216.png": {
         "cute": 5,
         "animal": 1,
         "dark": 0,
@@ -1000,7 +1052,7 @@
         "game": 0,
         "anime": 0
     },
-    "1341740": {
+    "1341740.jpeg": {
         "cute": 0,
         "animal": 0,
         "dark": 4,
@@ -1013,7 +1065,7 @@
         "game": 5,
         "anime": 0
     },
-    "1343747": {
+    "1343747.png": {
         "cute": 0,
         "animal": 0,
         "dark": 1,
@@ -1026,7 +1078,7 @@
         "game": 0,
         "anime": 5
     },
-    "1344450": {
+    "1344450.jpeg": {
         "cute": 0,
         "animal": 0,
         "dark": 0,
@@ -1039,7 +1091,7 @@
         "game": 5,
         "anime": 0
     },
-    "1348494": {
+    "1348494.png": {
         "cute": 4,
         "animal": 5,
         "dark": 0,
@@ -1052,7 +1104,7 @@
         "game": 0,
         "anime": 2
     },
-    "1348619": {
+    "1348619.png": {
         "cute": 3,
         "animal": 5,
         "dark": 0,
@@ -1064,5 +1116,1539 @@
         "hq": 0,
         "game": 0,
         "anime": 2
+    },
+    "82433.jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 4
+    },
+    "86159.jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "96650.jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "110834.jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 3
+    },
+    "112763.jpg": {
+        "cute": 0,
+        "animal": 3,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 3
+    },
+    "112946.jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 2,
+        "music": 0,
+        "artist": 0,
+        "pink": 1,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 4
+    },
+    "113422.jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 2.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 3.5
+    },
+    "126995.jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 4,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "247154.jpg": {
+        "cute": 2,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 3,
+        "blue": 3,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "262350.jpg": {
+        "cute": 0,
+        "animal": 4,
+        "dark": 5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "658941.jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 5,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "681587.png": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "938794.jpg": {
+        "cute": 3.5,
+        "animal": 4,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 5
+    },
+    "1064544.jpg": {
+        "cute": 2,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 2.5
+    },
+    "1105699.jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 2.5
+    },
+    "1124820.jpg": {
+        "cute": 4.5,
+        "animal": 2,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 2.5,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "1124821.jpg": {
+        "cute": 4.5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 4,
+        "blue": 1.5,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "1124824.jpg": {
+        "cute": 4.5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 4,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "1173113.jpg": {
+        "cute": 3,
+        "animal": 3,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 2.5
+    },
+    "1305893.jpeg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 3,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "1305913.jpeg": {
+        "cute": 4,
+        "animal": 1,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 1.5,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "1313112.jpeg": {
+        "cute": 3,
+        "animal": 5,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1313113.jpeg": {
+        "cute": 3,
+        "animal": 5,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1313115.jpeg": {
+        "cute": 3,
+        "animal": 5,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1316800.jpeg": {
+        "cute": 1,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 4,
+        "blue": 1.5,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1323474.png": {
+        "cute": 1,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 5,
+        "blue": 1.5,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1325877.png": {
+        "cute": 1,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 2.5,
+        "blue": 3,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1327244.png": {
+        "cute": 2.5,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1,
+        "blue": 2,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 2
+    },
+    "1328860.png": {
+        "cute": 2.5,
+        "animal": 0,
+        "dark": 4,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 2,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 2
+    },
+    "1336757.jpeg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 5,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1338396.jpeg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 2.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1338897.jpeg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 1.5,
+        "abstract": 5,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "1347089.png": {
+        "cute": 3,
+        "animal": 5,
+        "dark": 2,
+        "music": 0,
+        "artist": 0,
+        "pink": 2,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 1
+    },
+    "1349451.png": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 2.5
+    },
+    "1349472.png": {
+        "cute": 4,
+        "animal": 5,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 2.5,
+        "blue": 2.5,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (15).jpg": {
+        "cute": 1,
+        "animal": 2,
+        "dark": 2,
+        "music": 0,
+        "artist": 0,
+        "pink": 2,
+        "blue": 3,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (16).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 2.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (17).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 1,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (18).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (19).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (20).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (21).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (22).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (23).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (24).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (25).jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 2,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (26).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1.5,
+        "blue": 2,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (27).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (28).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 3.5,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (29).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 3.5,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (30).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 3.5,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (31).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 1.5,
+        "music": 0,
+        "artist": 2.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (32).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 2,
+        "music": 0,
+        "artist": 2.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (33).jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (34).jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (35).jpg": {
+        "cute": 2,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (36).jpg": {
+        "cute": 0,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (37).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 2,
+        "music": 0,
+        "artist": 0,
+        "pink": 2,
+        "blue": 3,
+        "abstract": 4,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (38).jpg": {
+        "cute": 4,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 2.5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (39).jpg": {
+        "cute": 4,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 5
+    },
+    "wallpaperflare.com_wallpaper (40).jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 5
+    },
+    "wallpaperflare.com_wallpaper (41).jpg": {
+        "cute": 2.5,
+        "animal": 2,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 1,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (42).jpg": {
+        "cute": 4,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (43).jpg": {
+        "cute": 4,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (44).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (45).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 2,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (46).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (47).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 1.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (48).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 1.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (49).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (50).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (51).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (52).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (53).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (54).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (55).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 1.5,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (56).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 2,
+        "pink": 0,
+        "blue": 2,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (58).jpg": {
+        "cute": 2.5,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 2,
+        "pink": 1,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 5
+    },
+    "wallpaperflare.com_wallpaper (59).jpg": {
+        "cute": 5,
+        "animal": 5,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (60).jpg": {
+        "cute": 5,
+        "animal": 5,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (61).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 1,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (62).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 3,
+        "music": 5,
+        "artist": 0,
+        "pink": 4,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (63).jpg": {
+        "cute": 4,
+        "animal": 0,
+        "dark": 0,
+        "music": 3.5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (64).jpg": {
+        "cute": 2.5,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 5,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (65).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 2,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (66).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 2,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (67).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 2,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 0,
+        "game": 5,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (68).jpg": {
+        "cute": 5,
+        "animal": 5,
+        "dark": 0,
+        "music": 5,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (69).jpg": {
+        "cute": 2,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 0,
+        "blue": 4,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (70).jpg": {
+        "cute": 2,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (71).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (72).jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (73).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 3,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (74).jpg": {
+        "cute": 2.5,
+        "animal": 0,
+        "dark": 0,
+        "music": 5,
+        "artist": 5,
+        "pink": 5,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (75).jpg": {
+        "cute": 3,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (76).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 1.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3.5,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (77).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (78).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 1.5,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (79).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 1,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (82).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 3,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (83).jpg": {
+        "cute": 3,
+        "animal": 5,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 0,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (84).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (85).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (86).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (87).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (88).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (89).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (90).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (91).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (92).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (93).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (94).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (95).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (96).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (97).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (98).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 0,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 0,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (99).jpg": {
+        "cute": 0,
+        "animal": 0,
+        "dark": 3,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
+    },
+    "wallpaperflare.com_wallpaper (100).jpg": {
+        "cute": 5,
+        "animal": 0,
+        "dark": 1.5,
+        "music": 0,
+        "artist": 0,
+        "pink": 0,
+        "blue": 0,
+        "abstract": 4,
+        "hq": 5,
+        "game": 0,
+        "anime": 0
     }
 }

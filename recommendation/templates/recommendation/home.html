@@ -2,6 +2,21 @@
 {% load static %}
 {% block content %}
 <h1>Escolha um Wallpaper</h1>
+<form method="POST" action="{% url 'options_recommendation' %}">
+    {% csrf_token %}
+    <select id="dropdown1" name="option1">
+        {% for option in options %}
+        <option value="{{option}}">{{ option }}</option>
+        {% endfor %}
+    </select>
+    <select id="dropdown2" name="option2">
+        {% for option in options %}
+        <option value="{{option}}">{{ option }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    <input type="submit" value="Buscar">
+</form>
 <div class="wallpapers-wrapper">
     {% for wallpaper in wallpapers %}
     <a href="{% url 'recommendations' wallpaper %}">

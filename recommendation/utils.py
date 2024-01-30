@@ -9,7 +9,11 @@ def manhattan(wallpaper1, wallpaper2):
 
 
 def recommend(wallpaper_name, wallpapers):
-    wallpaper_selected = wallpapers[wallpaper_name]
+    wallpaper_selected = (
+        wallpapers[wallpaper_name]
+        if not isinstance(wallpaper_name, dict)
+        else wallpaper_name
+    )
     distances = []
     for wallpaper in wallpapers:
         if wallpaper != wallpaper_name:

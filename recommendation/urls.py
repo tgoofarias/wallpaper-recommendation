@@ -9,4 +9,9 @@ urlpatterns = [
         views.recommendations,
         name="recommendations",
     ),
+    path(
+        "options_recommendation/",
+        views.options_recommendation,
+        name="options_recommendation",
+    ),
 ]
