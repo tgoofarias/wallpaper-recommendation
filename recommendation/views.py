@@ -20,7 +20,7 @@ with open(dataset_path) as dataset_json:
 
 def home(request):
     context = {
-        "wallpapers": random.sample(dataset.keys(), 50),
+        "wallpapers": random.sample(list(dataset.keys()), 50),
         "options": [
             "cute",
             "animal",
